@@ -2,3 +2,5 @@ download citra
 sampling area
 ground truth 
 validasi sample 
+new methode 
+new class 
