@@ -1,3 +1,4 @@
 download citra 
 sampling area
 ground truth 
+validasi sample 
